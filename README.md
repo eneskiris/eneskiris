@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Kırış</h1>
-<h3 align="center">A passionate developer from Republic of Turkey. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png" alt="republifofturkey" width="50" height="50"/> </h3>
+<h3 align="center">A passionate developer from Republic of Turkey. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png" alt="republifofturkey" width="60" height="40"/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eneskiris&label=Profile%20views&color=00fffb&style=flat" alt="eneskiris" /> </p>
 
