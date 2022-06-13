@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Republic of Turkey. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png" alt="republifofturkey" width="60" height="40"/> </h3>
 
 
-- 🌱 I’m currently learning **C#,.Net,Html,CSS,Bootstrap**
+- :star: I’m currently learning **C#,.Net,Html,CSS,Bootstrap**
 
 - 📫 How to reach me **eneskiris@gmail.com**
 
